@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "853599584425",
+    "project_id": "flutter-chess-app",
+    "storage_bucket": "flutter-chess-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853599584425:android:9a3cee12efe4dd28cda9b8",
+        "android_client_info": {
+          "package_name": "vn.flutter_co_vua.co_vua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853599584425-6t5g98gqnifa54d8et92ddasqsb4sj0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.flutter_co_vua.co_vua",
+            "certificate_hash": "479be113eefae365a155ce3b4d0f6bde4e68f8df"
+          }
+        },
+        {
+          "client_id": "853599584425-k2ns42lg5i94b20q1hqb9rb4ib55kbf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIaVeagNMeLCryLBMoNE3xpd06hqy3aJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853599584425-k2ns42lg5i94b20q1hqb9rb4ib55kbf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
